@@ -1,0 +1,50 @@
+
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.home {
+    margin-top: auto;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.fundo-azul {
+    height: 100%;
+    width: 100%;
+    background-color: #09096e;
+    color: rgb(255, 255, 255);
+}
+
+a:link, a:visited {
+    color: inherit;
+    text-decoration: none;
+    cursor: auto;
+}
+
+.tam {
+    font-size: large;
+}
+
+.hades {
+    text-align: center;
+}
+
+.poseidon {
+    text-align: center;
+}
+
+.santuario {
+    text-align: center;
+}
+.fundo {
+    background-color: blue;
+    opacity: 50%;
+}
+
+
