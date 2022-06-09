@@ -1,0 +1,173 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+.menu-principal {
+    width: 100%;
+    background-color: #252323;
+    height: 60px;
+}
+main, content {
+    margin: 0 auto;
+    width: 1000px;
+    height: 60px;
+    position: relative;
+}
+.logo {
+    padding: 5px;
+    width: 70%;
+    float: left;
+}
+.logo2 {
+    width: 80%;
+    padding: 2%;
+    margin-right: auto;
+}
+.redes-sociais ul li {
+    margin-left: 15px;
+    display: inline-block;
+    list-style: none;
+}
+.redes-sociais {
+    width: 25%;
+    float: right;   
+}
+.header2 {
+    background-color: #ffffff;
+    width: 980px;
+    margin:0 auto;
+    padding: 16px;
+}
+.menu-urls {
+    height: 80px;
+    border-bottom: 3px solid #efefef;
+}
+.menu ul li {
+    display: inline-block;
+    color: #8b8b8b;
+    margin-left: 30px;
+}
+.menu ul li:hover {
+    height: 48px;
+    border-bottom: 3px solid #00bac6;
+}
+.menu ul li a:hover {
+    color: #00bac6;
+}
+.menu ul li a {
+    color: #8b8b8b;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.menu {
+    width: 70%;
+    float: left;
+}
+.busca {
+    text-align: center;
+    width: 20%;
+    float: right;
+}
+.busca input {
+    background-image: url("./img/Lupa.png");
+    background-repeat: no-repeat;
+    height: 20px;
+    padding: 7px;
+    width: 190px;
+    margin-top: 10px;
+    background-position: 96%;
+    border: 1px solid #d6d6d6;
+}
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+.img {
+    position: absolute;
+    transition: 1s;
+}
+.preto:hover {
+    opacity:0;
+}
+.right {
+    margin-left: 5%;
+}
+.teste {
+    margin-top: 3%;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    position: relative;
+}
+.imagem {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.borda {
+    border-radius: 20px;
+}
+.borda-2{
+    margin-top: 4%;
+    border: 5px solid #efefefab;
+    border-radius: 20px;
+}
+.topo {
+    margin-top: auto;
+    text-align: center;
+}
+.topo2 {
+    margin-left: 3%;
+}
+.text-center {
+    text-align: center;
+}.col-3 {
+    padding-top: 3%;
+    padding-left: 1%;
+    padding-right: 1%;
+    text-align: center;
+    width: 29%;
+    float: left;
+    position: relative;
+}
+.dv1 {
+    width: 200px;
+    float: left;
+}
+.dv1 li:hover {
+    color: #00bac6;
+}
+.fundo-cinza {
+    height: 100%;
+    width: 100%;
+    background-color: #252323;
+    color: white;
+}
+ul li {
+    list-style-type: none;
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: inherit;
+    text-decoration: none;
+    cursor: auto;
+}
+a:link:active, a:visited:active {
+    color: inherit;
+}
+a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+.texto {
+    margin-top: 3%;
+    border: 3px groove #252323;
+    background-image: url(./img/texto-fundo.jpg);
+    color: white;
+}
+.tam {
+    font-size: large;
+}
